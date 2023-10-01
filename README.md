@@ -6,9 +6,11 @@
 
 </div>
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
+- 🎓 I hold a Bachelor's Degree in Computer Science from Telkom Purwokerto Institute of Technology
 
 - 🔭 I’m currently working in `SolveIt Platform` as `Backend Developer`
 
@@ -37,6 +39,13 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+- 💻 Framework:
+
+    [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+    [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+    [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+    [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
 - ♾️ DevOps:
@@ -76,13 +85,25 @@
 
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## Most Used Languages 📚
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=nafiilham008&theme=tokyonight&show_icons=true/460/300">
+<p align='center'>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nafiilham008&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Most Used Languages">
+</p>
+<p align='center'>
+  <em>Note: Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</em>
+</p>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiilham008&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+---
 
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiilham008&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Github Stats**
+
+<p align='center'>
+  <img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=nafiilham008&theme=tokyonight&show_icons=true" alt="GitHub Stats">
+</p>
+<p align='center'>
+  <img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiilham008&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="GitHub Streak Stats">
+</p>
 
 <br>
 
@@ -97,7 +118,11 @@
 &nbsp;<a href="mailto:nafiilham.h@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="nafiilham.h@gmail.com" width="40" /></a>
 &nbsp;<a href="https://stackoverflow.com/users/22664096/naf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171333456-ac1d5e66-bd90-468b-a1bf-c030ba6a1fed.gif" alt="19234611" width="40" /></a>
 
-  
+<br>
+
+## 🏆GitHub Trophies
+![GITHUB TROPHIES](https://github-profile-trophy.vercel.app/?username=nafiilham008&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
   
 
 -----
