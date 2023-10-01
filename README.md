@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+## 👨🏽‍💻 <b>About Me</b>
 
 - 🎓 I hold a Bachelor's Degree in Computer Science from Telkom Purwokerto Institute of Technology
 
@@ -28,7 +28,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
+## 🧰 <b> Skills</b>
 
 <p align="center">
 
@@ -85,7 +85,7 @@
 
 <br> 
 
-## Most Used Languages 📚
+## 📚 Most Used Languages
 
 <p align='center'>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nafiilham008&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Most Used Languages">
@@ -107,7 +107,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+## 📱 <b>Connect with Me</b>
 
  <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em>
  
@@ -120,7 +120,7 @@
 
 <br>
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 ![GITHUB TROPHIES](https://github-profile-trophy.vercel.app/?username=nafiilham008&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
   
